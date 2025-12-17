@@ -3,7 +3,7 @@ from esphome.components import uart
 import esphome.config_validation as cv
 from esphome.const import CONF_ADDRESS, CONF_ID
 
-CODEOWNERS = ["@s1lvi0"]
+CODEOWNERS = ["@s1lvi0", "Kicosta"]
 MULTI_CONF = True
 DEPENDENCIES = ["uart"]
 

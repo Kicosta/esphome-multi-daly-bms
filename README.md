@@ -432,8 +432,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ##  Support
 
-- **Issues**: [GitHub Issues](https://github.com/Kicosta/esphome-daly-bms-multi/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Kicosta/esphome-daly-bms-multi/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Kicosta/esphome-multi-daly-bms/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Kicosta/esphome-multi-daly-bms/discussions)
 - **ESPHome Discord**: [ESPHome Discord Server](https://discord.gg/KhAMKrd)
 
 ---

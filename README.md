@@ -425,16 +425,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ##  Acknowledgments
 
 - Original Daly BMS component by [@s1lvi0](https://github.com/s1lvi0)
+- Multi-BMS dispatcher architecture by [Kicosta](https://github.com/Kicosta)
 - ESPHome community for the excellent platform
-- All contributors who helped test and improve this component
-
----
-
-##  Support
-
-- **Issues**: [GitHub Issues](https://github.com/Kicosta/esphome-multi-daly-bms/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Kicosta/esphome-multi-daly-bms/discussions)
-- **ESPHome Discord**: [ESPHome Discord Server](https://discord.gg/KhAMKrd)
 
 ---
 

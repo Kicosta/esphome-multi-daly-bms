@@ -438,6 +438,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+## Acknowledgments
+
+- Original Daly BMS component by [@s1lvi0](https://github.com/s1lvi0)
+- Multi-BMS dispatcher architecture by [Kicosta](https://github.com/Kicosta)
+- ESPHome community for the excellent platform
+ 
+---
+
 ##  Related Projects
 
 - [ESPHome](https://esphome.io/) - The platform this component is built for

@@ -442,7 +442,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [ESPHome](https://esphome.io/) - The platform this component is built for
 - [Home Assistant](https://www.home-assistant.io/) - Home automation platform
-- [Original Daly BMS Component]([https://esphome.io/components/sensor/daly_bms/])
+- [Original Daly BMS Component](https://esphome.io/components/sensor/daly_bms/)
 
 ---
 

@@ -3,7 +3,7 @@ from esphome.components import uart
 import esphome.config_validation as cv
 from esphome.const import CONF_ID
 
-CODEOWNERS = ["@s1lvi0", "Kicosta"]
+CODEOWNERS = ["Kicosta"]
 DEPENDENCIES = ["uart"]
 
 daly_bms_dispatcher_ns = cg.esphome_ns.namespace("daly_bms")

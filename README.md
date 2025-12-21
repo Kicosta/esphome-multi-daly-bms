@@ -1,5 +1,14 @@
 ## Component still under testing - No guarantee on full functionality
 
+# ESPHome Daly BMS Multi-Device Component
+
+[![ESPHome](https://img.shields.io/badge/ESPHome-2024.11+-blue.svg)](https://esphome.io/)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![GitHub stars](https://img.shields.io/github/stars/Kicosta/esphome-multi-daly-bms.svg)](https://github.com/Kicosta/esphome-daly-multi-bms/stargazers)
+
+**Advanced ESPHome component supporting multiple Daly BMS units on a shared RS485 bus with centralized UART dispatch.**
+
+**⚠️ Personal Use Only** - Not for commercial use without permission. See [License](#license) section.
 
 ## Features
 
@@ -419,10 +428,24 @@ esphome compile example.yaml
 
 ---
 
-##  License
+## ⚖️ License Notice
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+This component is provided for **personal, non-commercial use only** under CC BY-NC-SA 4.0.
+
+**Permitted:**
+- Home automation projects
+- Personal learning and experimentation
+- Sharing modifications with the community
+
+**Not Permitted:**
+- Commercial products or services
+- Paid installations or consulting
+- Resale or redistribution in commercial packages
+
+For commercial licensing, contact: [kicosta@hotmail.com]
+
+See [LICENSE](LICENSE) for full terms.
+
 ---
 
 ##  Acknowledgments

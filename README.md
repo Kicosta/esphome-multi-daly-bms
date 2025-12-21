@@ -422,7 +422,7 @@ esphome compile example.yaml
 ##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ---
 
 ##  Acknowledgments

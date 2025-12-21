@@ -1,3 +1,6 @@
+## Component still under testing - No guarantee on full functionality
+
+
 ## Features
 
 - ✅ **Multi-BMS Support** - Connect 2+ Daly BMS units on the same RS485 bus

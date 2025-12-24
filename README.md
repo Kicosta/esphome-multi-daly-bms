@@ -18,7 +18,7 @@
 - ✅ **Full Sensor Support** - Voltage, current, SOC, temperatures, cell voltages, and more
 - ✅ **Configurable Update Intervals** - Optimize polling frequency per BMS
 - ✅ **Detailed Logging** - Debug support for troubleshooting
-- ✅ **Native ESPHome Integration** - Works seamlessly with Home Assistant
+
 
 ---
 
